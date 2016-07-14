@@ -1,0 +1,7 @@
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.Test.dll
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.Test.pdb
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\bin\Debug\nunit.framework.dll
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\bin\Debug\NUnit_Application.exe
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\obj\Debug\NUnit_Application.Test.dll
+D:\Downloads\Compressed\NUnit_Application\NUnit_Application\NUnit_Application.Test\obj\Debug\NUnit_Application.Test.pdb
